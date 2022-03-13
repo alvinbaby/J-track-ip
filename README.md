@@ -5,14 +5,14 @@ Advanced Ip Tracker Tool
 
 * `apt update`
 * `apt install git curl -y`
-* `git clone git://github.com/htr-tech/track-ip.git`
-* `cd track-ip`
+* `git clone git://github.com/alvinbaby/J-track-ip.git`
+* `cd J-track-ip`
 
-#### > Run : `bash trackip`
+#### > Run : `bash trackip.sh`
 
 ## Single Command :
 ```
-apt update ; apt install git curl -y ; git clone git://github.com/htr-tech/track-ip.git ; cd track-ip ; bash trackip
+apt update ; apt install git curl -y ; git clone git://github.com/alvinbaby/J-track-ip.git ; cd track-ip ; bash trackip.sh
 ```
 <br>
 <p align="center">
